@@ -17,15 +17,7 @@
    2. CSS
    3. JAVASCRIPT
 
-## Author :
-   Akash Deep
-   <br>
-   Email: ad3500476@gmail.com
-   <br>
-   LinkedIn : https://www.linkedin.com/in/akashdeep023/
 
-## Website Link :
-   url : https://akashdeep023.github.io/Amazon-Clone/
 
 ## Ex- Image
 ### Home Page
